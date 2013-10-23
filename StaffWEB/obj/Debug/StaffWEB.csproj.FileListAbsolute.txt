@@ -1,0 +1,7 @@
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\bin\StaffWEB.dll
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\bin\StaffWEB.pdb
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\obj\Debug\StaffWEB.csprojResolveAssemblyReference.cache
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\obj\Debug\StaffWEB.dll
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\obj\Debug\StaffWEB.pdb
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\bin\StaffClassLibrary.dll
+c:\users\yuan\documents\visual studio 2012\Projects\StaffWEB\StaffWEB\bin\StaffClassLibrary.pdb

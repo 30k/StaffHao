@@ -1,0 +1,9 @@
+﻿1st Semester 2011;RCM3001 ICT Industry Project 1
+1st Semester 2011;RCM3002 ICT Industry Project 2
+1st Semester 2011;ECB2124 Web-based System Development/RCM6710 Internet Data management
+1st Semester 2011;RCM6710 Internet Data Management at Sydney Campus
+1st Semester 2011;RCM2313/RCM5810 Software Development
+2nd Semester 2011;RCM3001 ICT Industry Project 1 (2nd Semester intake)
+2nd Semester 2011;RCM3002 ICT Industry Project 2
+2nd Semester 2011;ENF1203 Engineering Computing
+2nd Semester 2011;RCM2313/RCM5810 Software Development
